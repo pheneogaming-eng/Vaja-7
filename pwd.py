@@ -27,3 +27,7 @@ if lower == False:
     
 if number == False:
     print("Password must contain a number.")
+
+if valid == True:
+  print("\nPassword is valid!")
+  break

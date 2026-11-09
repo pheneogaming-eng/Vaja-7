@@ -24,3 +24,6 @@ if upper == False:
     
 if lower == False:
     print("Password must contain an lowercase letter.")
+    
+if number == False:
+    print("Password must contain a number.")

@@ -21,3 +21,6 @@ if len(password) < 8:
   
 if upper == False:
     print("Password must contain an uppercase letter.")
+    
+if lower == False:
+    print("Password must contain an lowercase letter.")
